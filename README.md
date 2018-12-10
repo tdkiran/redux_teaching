@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Redux Tutorial
+(A git repo for teaching purpose, dont expect prod code )!!
 
 ## Available Scripts
 

@@ -1,0 +1,15 @@
+.add-notes-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.notes {
+    width: 500px;
+    height: 100px;
+    margin: 50px;
+}
+
+.add-button {
+    width: 100px;
+}
